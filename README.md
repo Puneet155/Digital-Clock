@@ -15,10 +15,6 @@ It displays the **current time** in 12-hour format, the **current date**, and a 
 
 ---
 
-## 📸 Preview
-
-![Clock Preview](link-to-screenshot-if-you-want.png)
-
 ---
 
 ## 🚀 Technologies Used
@@ -33,4 +29,4 @@ It displays the **current time** in 12-hour format, the **current date**, and a 
 1. Make sure you have Python installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/puneet155p/digital-clock.git
