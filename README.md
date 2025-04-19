@@ -1,2 +1,36 @@
-# Digital-Clock
-A modern Digital Clock built with Python and Tkinter. Displays real-time 12-hour time, current date, and a customizable location. Features a clean, light-themed UI with automatic updates every second. Simple to run with no external dependencies. Perfect for learning Python GUI development.
+# 🕒 Digital Clock with Date and Location
+
+A modern, lightweight **Digital Clock application** built using **Python** and **Tkinter**.  
+It displays the **current time** in 12-hour format, the **current date**, and a **customizable location**, all inside a clean and minimal GUI.
+
+---
+
+## ✨ Features
+- Live **digital clock** with real-time updating (12-hour format with AM/PM)
+- Displays **current date** (weekday, day, month, year)
+- Shows a **custom location** label (e.g., 📍 New Delhi, India)
+- **Modern light-themed UI** with soft colors
+- Fully responsive without freezing the interface
+- **Easy to customize** and expand for additional features
+
+---
+
+## 📸 Preview
+
+![Clock Preview](link-to-screenshot-if-you-want.png)
+
+---
+
+## 🚀 Technologies Used
+- **Python 3**
+- **Tkinter** (standard GUI library)
+- **time** module
+- **datetime** module
+
+---
+
+## 📂 How to Run
+1. Make sure you have Python installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/digital-clock.git
